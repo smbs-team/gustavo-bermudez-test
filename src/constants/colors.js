@@ -1,0 +1,5 @@
+export const RED_COLOR = "#e23636"
+export const BLACK_COLOR = "#000000"
+export const GRAY_COLOR = "#504a4a"
+export const SKY_COLOR = "#518cca"
+export const ORANGE_COLOR = "#f78f3f"
